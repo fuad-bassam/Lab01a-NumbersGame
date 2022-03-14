@@ -183,7 +183,7 @@ namespace Program
 ```
 -----
 **depuging with breakpoint**
-![img](./Program/image/d3.PNG)
+![img](./Program/image/d2.PNG)
 
 
 ##  setting up this program.
@@ -200,13 +200,13 @@ is to compute an do some operation on array.
 
 when it works correctly
 -----
-![image]()
+![image](./Program/image/d3.PNG)
 when the user enter number  larger than the array size 
 -----
-![image]()
+![image](./Program/image/d6.PNG)
 when the user try to enter characters 
 --------
-![image]()
+![image](./Program/image/d4.PNG)
 
 
 
