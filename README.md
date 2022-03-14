@@ -183,7 +183,7 @@ namespace Program
 ```
 -----
 **depuging with breakpoint**
-![img](./image/d3)
+![img](./Program/image/d3)
 
 
 ##  setting up this program.
