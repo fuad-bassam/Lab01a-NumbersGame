@@ -129,6 +129,8 @@ namespace Program
                 Console.WriteLine("The multiplication = " + multArr);
                 Console.WriteLine("The quotient = " + quot);
 
+
+
             }
             catch (IndexOutOfRangeException)
             {
