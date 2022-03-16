@@ -198,24 +198,24 @@ is to compute an do some operation on array.
 **how program look like**
 
 
-when it works correctly
+
+## when it works correctly
 
 -----
 
-![image]()
+![image](./Program/image/d3.PNG)
 
-when the user enter number  larger than the array size 
+## when the user enter number  larger than the array size 
 
 -----
 
-![image]()
+![image](./Program/image/d6.PNG)
 
-when the user try to enter characters 
+## when the user try to enter characters 
 
 --------
 
-![image]()
-
+![image](./Program/image/d4.PNG)
 
 
 
